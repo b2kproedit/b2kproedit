@@ -1,75 +1,29 @@
-🛠️ Tech Stack
-Languages
-<img src="https://skillicons.dev/icons?i=html" alt="HTML"> <img src="https://skillicons.dev/icons?i=css" alt="CSS"> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"> <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"> <img src="https://skillicons.dev/icons?i=py" alt="Python"> <img src="https://skillicons.dev/icons?i=cpp" alt="C++"> <img src="https://skillicons.dev/icons?i=go" alt="Go"> <img src="https://skillicons.dev/icons?i=dart" alt="Dart">
-Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react" alt="React"> <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"> <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind"> <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS"> <img src="https://skillicons.dev/icons?i=django" alt="Django"> <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter"> <img src="https://skillicons.dev/icons?i=d3" alt="D3.js">
-Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git" alt="Git"> <img src="https://skillicons.dev/icons?i=github" alt="GitHub"> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"> <img src="https://skillicons.dev/icons?i=figma" alt="Figma"> <img src="https://skillicons.dev/icons?i=aws" alt="AWS"> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase"> <img src="https://skillicons.dev/icons?i=docker" alt="Docker"> <img src="https://skillicons.dev/icons?i=linux" alt="Linux">
+name: Generate Pacman Contribution Graph
 
-📊 GitHub Analytics
+on:
+  schedule:
+    - cron: "0 0 * * *"     # runs once a day
+  workflow_dispatch: {}      # lets you trigger it manually
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=brukjone&#x26;show_icons=true&#x26;theme=dracula&#x26;hide_border=true&#x26;count_private=true" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brukjone&#x26;layout=compact&#x26;theme=dracula&#x26;hide_border=true" alt="Top Languages">
-  
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Pacman contribution graph
+        uses: Platane/snk@v3
+        id: pacman-graph
+        with:
+          github_user_name: brukjone
+          outputs: |
+            dist/pacman-contribution-graph.svg?color_dots=#00ff00,#00ff00,#00ff00,#00ff00,#00ff00&color_snake=blue,orange,orange,orange,orange&game=pacman
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark&game=pacman
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brukjone&#x26;theme=dracula&#x26;hide_border=true" alt="GitHub Streak">
-  
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brukjone&#x26;theme=react-dark&#x26;hide_border=true" width="95%" alt="Activity Graph">
-
-
-🏆 Trophies & Streaks
-
-  <img src="https://streak-stats.demolab.com?user=brukjone&#x26;locale=en&#x26;mode=daily&#x26;theme=dracula&#x26;hide_border=false&#x26;border_radius=5" height="150" alt="Streak Stats">
-  <img src="https://github-profile-trophy.vercel.app/?username=brukjone&#x26;theme=dracula&#x26;no-frame=false&#x26;no-bg=false&#x26;margin-w=8" height="150" alt="Trophies">
-
-
-🐍 Contribution Snake
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brukjone/brukjone/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brukjone/brukjone/output/github-contribution-grid-snake.svg">
-    <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/brukjone/brukjone/output/github-contribution-grid-snake.svg">
-  </picture>
-
-
-👾 Pacman Contribution Graph
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brukjone/brukjone/pacman-output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brukjone/brukjone/pacman-output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/brukjone/brukjone/pacman-output/pacman-contribution-graph.svg">
-  </picture>
-
-
-🌐 Connect with Me
-
-  
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white" alt="Gmail">
-  
-  
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&#x26;logo=vercel&#x26;logoColor=white" alt="Portfolio">
-  
-  
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&#x26;logo=github&#x26;logoColor=white" alt="GitHub">
-  
-  
-  
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white" alt="LinkedIn">
-  
-
-
-
-
-  ⭐ Thanks for stopping by! Let's build something awesome together 🎨💻🔥
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:0E75B6&height=120&section=footer" width="100%" alt="Footer" />
-```
-
-Quick Pro Tips & Fixes I Applied
-
-Removed all duplication — you had two full headers stacked on top of each other.
-Cleaned broken social links — LinkedIn, Twitter, Discord, etc. were empty (https://linkedin.com/in/). Add the real ones when you have them.
-Fixed GitHub Actions (put these in the correct files):
-
-.github/workflows/snake.yml
+      - name: Push generated SVG to the pacman-output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: pacman-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
