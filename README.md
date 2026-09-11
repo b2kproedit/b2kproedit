@@ -82,17 +82,17 @@ fun_fact: "Started coding at 12 — never stopped ⚡"
 
 <div align="center">
 
-**🎨 Frontend Core**
+**💻 Languages** *(real usage — see the languages card below 👇)*
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="core" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,rust,html,css&theme=dark" alt="Languages" />
 
-**🚀 Learning & Growing**
+**🚀 Frameworks & Libraries**
 <br>
-<img src="https://skillicons.dev/icons?i=ts,react,python&theme=dark" alt="learning" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,django,flutter,nestjs&theme=dark" alt="Frameworks" />
 
 **🧰 Tools & Platforms**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,linux&theme=dark" alt="Tools" />
 
 </div>
 
