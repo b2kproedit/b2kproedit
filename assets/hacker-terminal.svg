@@ -1,0 +1,129 @@
+<svg width="828" height="430" viewBox="0 0 828 430" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="hacker terminal — code running">
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00ff88"/><stop offset="100%" stop-color="#00d4ff"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="rgba(0,255,136,0.035)"/>
+    </pattern>
+  </defs>
+
+  <!-- ═══ MATRIX RAIN (background) ═══ -->
+  <g font-family="Consolas,Menlo,monospace" font-size="15" fill="#00ff41">
+    <g opacity="0.13"><text x="52" y="0">0<tspan x="52" dy="24">1</tspan><tspan x="52" dy="24">ア</tspan><tspan x="52" dy="24">;</tspan><tspan x="52" dy="24">1</tspan><tspan x="52" dy="24">{</tspan><tspan x="52" dy="24">0</tspan><tspan x="52" dy="24">サ</tspan><tspan x="52" dy="24">}</tspan><tspan x="52" dy="24">1</tspan><tspan x="52" dy="24">0</tspan><tspan x="52" dy="24">&lt;</tspan><tspan x="52" dy="24">;</tspan><tspan x="52" dy="24">シ</tspan><tspan x="52" dy="24">1</tspan><tspan x="52" dy="24">0</tspan><tspan x="52" dy="24">/</tspan><tspan x="52" dy="24">1</tspan><tspan x="52" dy="24">0</tspan><animateTransform attributeName="transform" type="translate" values="0,-460;0,470" dur="9s" repeatCount="indefinite"/></g>
+    <g opacity="0.10"><text x="118" y="0">$<tspan x="118" dy="24">0</tspan><tspan x="118" dy="24">ナ</tspan><tspan x="118" dy="24">%</tspan><tspan x="118" dy="24">1</tspan><tspan x="118" dy="24">&gt;</tspan><tspan x="118" dy="24">0</tspan><tspan x="118" dy="24">モ</tspan><tspan x="118" dy="24">;</tspan><tspan x="118" dy="24">1</tspan><tspan x="118" dy="24">=</tspan><tspan x="118" dy="24">0</tspan><tspan x="118" dy="24">ヒ</tspan><tspan x="118" dy="24">1</tspan><tspan x="118" dy="24">{</tspan><tspan x="118" dy="24">0</tspan><tspan x="118" dy="24">1</tspan><tspan x="118" dy="24">}</tspan><tspan x="118" dy="24">0</tspan><animateTransform attributeName="transform" type="translate" values="0,-460;0,470" dur="7s" repeatCount="indefinite"/></g>
+    <g opacity="0.15"><text x="184" y="0">1<tspan x="184" dy="24">;</tspan><tspan x="184" dy="24">0</tspan><tspan x="184" dy="24">ス</tspan><tspan x="184" dy="24">#</tspan><tspan x="184" dy="24">1</tspan><tspan x="184" dy="24">0</tspan><tspan x="184" dy="24">&amp;</tspan><tspan x="184" dy="24">フ</tspan><tspan x="184" dy="24">0</tspan><tspan x="184" dy="24">1</tspan><tspan x="184" dy="24">&lt;</tspan><tspan x="184" dy="24">0</tspan><tspan x="184" dy="24">;</tspan><tspan x="184" dy="24">1</tspan><tspan x="184" dy="24">ウ</tspan><tspan x="184" dy="24">0</tspan><tspan x="184" dy="24">+</tspan><tspan x="184" dy="24">1</tspan><animateTransform attributeName="transform" type="translate" values="0,-460;0,470" dur="11s" repeatCount="indefinite"/></g>
+    <g opacity="0.09"><text x="250" y="0">0<tspan x="250" dy="24">1</tspan><tspan x="250" dy="24">エ</tspan><tspan x="250" dy="24">0</tspan><tspan x="250" dy="24">;</tspan><tspan x="250" dy="24">1</tspan><tspan x="250" dy="24">/</tspan><tspan x="250" dy="24">0</tspan><tspan x="250" dy="24">コ</tspan><tspan x="250" dy="24">1</tspan><tspan x="250" dy="24">}</tspan><tspan x="250" dy="24">0</tspan><tspan x="250" dy="24">*</tspan><tspan x="250" dy="24">1</tspan><tspan x="250" dy="24">0</tspan><tspan x="250" dy="24">;</tspan><tspan x="250" dy="24">ミ</tspan><tspan x="250" dy="24">1</tspan><tspan x="250" dy="24">0</tspan><animateTransform attributeName="transform" type="translate" values="0,-460;0,470" dur="8s" repeatCount="indefinite"/></g>
+    <g opacity="0.13"><text x="316" y="0">1<tspan x="316" dy="24">ネ</tspan><tspan x="316" dy="24">0</tspan><tspan x="316" dy="24">1</tspan><tspan x="316" dy="24">&lt;</tspan><tspan x="316" dy="24">0</tspan><tspan x="316" dy="24">;</tspan><tspan x="316" dy="24">1</tspan><tspan x="316" dy="24">0</tspan><tspan x="316" dy="24">タ</tspan><tspan x="316" dy="24">%</tspan><tspan x="316" dy="24">1</tspan><tspan x="316" dy="24">0</tspan><tspan x="316" dy="24">{</tspan><tspan x="316" dy="24">1</tspan><tspan x="316" dy="24">0</tspan><tspan x="316" dy="24">;</tspan><tspan x="316" dy="24">1</tspan><tspan x="316" dy="24">0</tspan><animateTransform attributeName="transform" type="translate" values="0,-460;0,470" dur="10s" repeatCount="indefinite"/></g>
+    <g opacity="0.10"><text x="382" y="0">0<tspan x="382" dy="24">;</tspan><tspan x="382" dy="24">1</tspan><tspan x="382" dy="24">サ</tspan><tspan x="382" dy="24">0</tspan><tspan x="382" dy="24">1</tspan><tspan x="382" dy="24">}</tspan><tspan x="382" dy="24">0</tspan><tspan x="382" dy="24">1</tspan><tspan x="382" dy="24">ホ</tspan><tspan x="382" dy="24">0</tspan><tspan x="382" dy="24">;</tspan><tspan x="382" dy="24">&gt;</tspan><tspan x="382" dy="24">1</tspan><tspan x="382" dy="24">0</tspan><tspan x="382" dy="24">1</tspan><tspan x="382" dy="24">0</tspan><tspan x="382" dy="24">;</tspan><tspan x="382" dy="24">1</tspan><animateTransform attributeName="transform" type="translate" values="0,-460;0,470" dur="7.5s" repeatCount="indefinite"/></g>
+    <g opacity="0.14"><text x="448" y="0">1<tspan x="448" dy="24">0</tspan><tspan x="448" dy="24">マ</tspan><tspan x="448" dy="24">;</tspan><tspan x="448" dy="24">1</tspan><tspan x="448" dy="24">0</tspan><tspan x="448" dy="24">&lt;</tspan><tspan x="448" dy="24">1</tspan><tspan x="448" dy="24">0</tspan><tspan x="448" dy="24">;</tspan><tspan x="448" dy="24">1</tspan><tspan x="448" dy="24">ユ</tspan><tspan x="448" dy="24">0</tspan><tspan x="448" dy="24">1</tspan><tspan x="448" dy="24">0</tspan><tspan x="448" dy="24">#</tspan><tspan x="448" dy="24">1</tspan><tspan x="448" dy="24">0</tspan><tspan x="448" dy="24">;</tspan><animateTransform attributeName="transform" type="translate" values="0,-460;0,470" dur="9.5s" repeatCount="indefinite"/></g>
+    <g opacity="0.09"><text x="514" y="0">0<tspan x="514" dy="24">1</tspan><tspan x="514" dy="24">;</tspan><tspan x="514" dy="24">ル</tspan><tspan x="514" dy="24">0</tspan><tspan x="514" dy="24">1</tspan><tspan x="514" dy="24">0</tspan><tspan x="514" dy="24">/</tspan><tspan x="514" dy="24">1</tspan><tspan x="514" dy="24">0</tspan><tspan x="514" dy="24">{</tspan><tspan x="514" dy="24">1</tspan><tspan x="514" dy="24">0</tspan><tspan x="514" dy="24">;</tspan><tspan x="514" dy="24">1</tspan><tspan x="514" dy="24">レ</tspan><tspan x="514" dy="24">0</tspan><tspan x="514" dy="24">1</tspan><tspan x="514" dy="24">0</tspan><animateTransform attributeName="transform" type="translate" values="0,-460;0,470" dur="8.5s" repeatCount="indefinite"/></g>
+    <g opacity="0.15"><text x="580" y="0">1<tspan x="580" dy="24">0</tspan><tspan x="580" dy="24">;</tspan><tspan x="580" dy="24">1</tspan><tspan x="580" dy="24">ソ</tspan><tspan x="580" dy="24">0</tspan><tspan x="580" dy="24">&amp;</tspan><tspan x="580" dy="24">1</tspan><tspan x="580" dy="24">0</tspan><tspan x="580" dy="24">1</tspan><tspan x="580" dy="24">;</tspan><tspan x="580" dy="24">0</tspan><tspan x="580" dy="24">1</tspan><tspan x="580" dy="24">ケ</tspan><tspan x="580" dy="24">0</tspan><tspan x="580" dy="24">1</tspan><tspan x="580" dy="24">;</tspan><tspan x="580" dy="24">0</tspan><tspan x="580" dy="24">1</tspan><animateTransform attributeName="transform" type="translate" values="0,-460;0,470" dur="10.5s" repeatCount="indefinite"/></g>
+    <g opacity="0.10"><text x="646" y="0">0<tspan x="646" dy="24">1</tspan><tspan x="646" dy="24">0</tspan><tspan x="646" dy="24">;</tspan><tspan x="646" dy="24">ワ</tspan><tspan x="646" dy="24">1</tspan><tspan x="646" dy="24">0</tspan><tspan x="646" dy="24">1</tspan><tspan x="646" dy="24">;</tspan><tspan x="646" dy="24">0</tspan><tspan x="646" dy="24">}</tspan><tspan x="646" dy="24">1</tspan><tspan x="646" dy="24">0</tspan><tspan x="646" dy="24">;</tspan><tspan x="646" dy="24">1</tspan><tspan x="646" dy="24">0</tspan><tspan x="646" dy="24">1</tspan><tspan x="646" dy="24">0</tspan><tspan x="646" dy="24">;</tspan><animateTransform attributeName="transform" type="translate" values="0,-460;0,470" dur="7.8s" repeatCount="indefinite"/></g>
+    <g opacity="0.13"><text x="712" y="0">1<tspan x="712" dy="24">;</tspan><tspan x="712" dy="24">0</tspan><tspan x="712" dy="24">1</tspan><tspan x="712" dy="24">ヲ</tspan><tspan x="712" dy="24">0</tspan><tspan x="712" dy="24">1</tspan><tspan x="712" dy="24">;</tspan><tspan x="712" dy="24">0</tspan><tspan x="712" dy="24">1</tspan><tspan x="712" dy="24">0</tspan><tspan x="712" dy="24">&lt;</tspan><tspan x="712" dy="24">1</tspan><tspan x="712" dy="24">;</tspan><tspan x="712" dy="24">0</tspan><tspan x="712" dy="24">1</tspan><tspan x="712" dy="24">0</tspan><tspan x="712" dy="24">1</tspan><tspan x="712" dy="24">;</tspan><animateTransform attributeName="transform" type="translate" values="0,-460;0,470" dur="9.2s" repeatCount="indefinite"/></g>
+    <g opacity="0.11"><text x="778" y="0">0<tspan x="778" dy="24">1</tspan><tspan x="778" dy="24">;</tspan><tspan x="778" dy="24">0</tspan><tspan x="778" dy="24">1</tspan><tspan x="778" dy="24">ン</tspan><tspan x="778" dy="24">0</tspan><tspan x="778" dy="24">;</tspan><tspan x="778" dy="24">1</tspan><tspan x="778" dy="24">0</tspan><tspan x="778" dy="24">1</tspan><tspan x="778" dy="24">0</tspan><tspan x="778" dy="24">;</tspan><tspan x="778" dy="24">}</tspan><tspan x="778" dy="24">1</tspan><tspan x="778" dy="24">0</tspan><tspan x="778" dy="24">1</tspan><tspan x="778" dy="24">0</tspan><tspan x="778" dy="24">;</tspan><animateTransform attributeName="transform" type="translate" values="0,-460;0,470" dur="8.2s" repeatCount="indefinite"/></g>
+  </g>
+
+  <!-- ═══ TERMINAL WINDOW ═══ -->
+  <rect x="59" y="29" width="710" height="372" rx="16" fill="none" stroke="url(#edge)" stroke-opacity="0.25" stroke-width="2"/>
+  <rect x="60" y="30" width="708" height="370" rx="15" fill="#0A0E14" stroke="#00ff88" stroke-opacity="0.35" stroke-width="1.5"/>
+  <rect x="60" y="30" width="708" height="370" rx="15" fill="url(#scan)"/>
+
+  <!-- title bar -->
+  <rect x="60" y="30" width="708" height="46" rx="15" fill="#11161F"/>
+  <rect x="60" y="58" width="708" height="18" fill="#11161F"/>
+  <circle cx="88" cy="53" r="7" fill="#ff5f57"/>
+  <circle cx="112" cy="53" r="7" fill="#febc2e"/>
+  <circle cx="136" cy="53" r="7" fill="#28c840"/>
+  <text x="414" y="58" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="14" fill="#8B949E">b2kproedit@github: ~/40-days-of-web-dev</text>
+  <!-- LIVE pulse -->
+  <circle cx="700" cy="53" r="4" fill="#ff5e78">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="712" y="58" font-family="Consolas,Menlo,monospace" font-size="12" font-weight="700" fill="#ff5e78">LIVE</text>
+
+  <!-- ═══ CODE RUNNING ═══ -->
+  <g font-family="Consolas,Menlo,monospace" font-size="15.5">
+
+    <!-- 1: $ whoami -->
+    <g opacity="0">
+      <text x="88" y="108" fill="#00E676" font-weight="700">$</text>
+      <text x="106" y="108" fill="#E6EDF3">whoami</text>
+      <animate attributeName="opacity" dur="14s" repeatCount="indefinite" values="0;0;1;1;1;0" keyTimes="0;0.057;0.107;0.945;0.99;1"/>
+    </g>
+    <!-- 2: answer -->
+    <g opacity="0">
+      <text x="88" y="134" fill="#7EE787">&gt; b2kproedit :: full-stack developer [Ethiopia 🇪🇹]</text>
+      <animate attributeName="opacity" dur="14s" repeatCount="indefinite" values="0;0;1;1;1;0" keyTimes="0;0.114;0.164;0.945;0.99;1"/>
+    </g>
+
+    <!-- 3: $ cat mission.txt -->
+    <g opacity="0">
+      <text x="88" y="168" fill="#00E676" font-weight="700">$</text>
+      <text x="106" y="168" fill="#E6EDF3">cat mission.txt</text>
+      <animate attributeName="opacity" dur="14s" repeatCount="indefinite" values="0;0;1;1;1;0" keyTimes="0;0.171;0.221;0.945;0.99;1"/>
+    </g>
+    <!-- 4: mission -->
+    <g opacity="0">
+      <text x="88" y="194" fill="#7EE787">&gt; build 40 real projects in 40 days — no frameworks, no excuses</text>
+      <animate attributeName="opacity" dur="14s" repeatCount="indefinite" values="0;0;1;1;1;0" keyTimes="0;0.229;0.279;0.945;0.99;1"/>
+    </g>
+
+    <!-- 5: $ ./run.sh -->
+    <g opacity="0">
+      <text x="88" y="228" fill="#00E676" font-weight="700">$</text>
+      <text x="106" y="228" fill="#E6EDF3">./run.sh --challenge "40-days-of-web-dev"</text>
+      <animate attributeName="opacity" dur="14s" repeatCount="indefinite" values="0;0;1;1;1;0" keyTimes="0;0.286;0.336;0.945;0.99;1"/>
+    </g>
+
+    <!-- 6: compiling (animated progress) -->
+    <g>
+      <text x="88" y="254" fill="#8B949E">&gt; compiling projects... </text>
+      <text x="300" y="254" fill="#00E676">[░░░░░░░░░░░░░░]  0/40<animate attributeName="opacity" calcMode="discrete" dur="3s" repeatCount="indefinite" values="1;0" keyTimes="0;0.34"/></text>
+      <text x="300" y="254" fill="#00E676">[▓▓▓▓▓▓▓░░░░░░░]  8/40<animate attributeName="opacity" calcMode="discrete" dur="3s" repeatCount="indefinite" values="0;1;0" keyTimes="0;0.34;0.67"/></text>
+      <text x="300" y="254" fill="#00E676">[▓▓▓▓▓▓▓▓▓▓▓▓░░] 17/40<animate attributeName="opacity" calcMode="discrete" dur="3s" repeatCount="indefinite" values="0;0;1" keyTimes="0;0.34;0.67"/></text>
+      <animate attributeName="opacity" dur="14s" repeatCount="indefinite" values="0;0;1;1;1;0" keyTimes="0;0.343;0.393;0.945;0.99;1"/>
+    </g>
+
+    <!-- 7: shipped list -->
+    <g opacity="0">
+      <text x="88" y="280" fill="#2ECC71">✔</text><text x="108" y="280" fill="#8B949E">calculator</text>
+      <text x="205" y="280" fill="#2ECC71">✔</text><text x="225" y="280" fill="#8B949E">quiz-game</text>
+      <text x="320" y="280" fill="#2ECC71">✔</text><text x="340" y="280" fill="#8B949E">e-commerce</text>
+      <text x="445" y="280" fill="#2ECC71">✔</text><text x="465" y="280" fill="#8B949E">movie-app</text>
+      <text x="560" y="280" fill="#00D4FF">+13 more…</text>
+      <animate attributeName="opacity" dur="14s" repeatCount="indefinite" values="0;0;1;1;1;0" keyTimes="0;0.4;0.45;0.945;0.99;1"/>
+    </g>
+
+    <!-- 8: $ ./deploy --live -->
+    <g opacity="0">
+      <text x="88" y="314" fill="#00E676" font-weight="700">$</text>
+      <text x="106" y="314" fill="#E6EDF3">./deploy --live --all</text>
+      <animate attributeName="opacity" dur="14s" repeatCount="indefinite" values="0;0;1;1;1;0" keyTimes="0;0.457;0.507;0.945;0.99;1"/>
+    </g>
+    <!-- 9: deployed -->
+    <g opacity="0">
+      <text x="88" y="340" fill="#7EE787">🚀 17/17 deployed → </text>
+      <text x="253" y="340" fill="#00D4FF" text-decoration="underline">b2kproedit.github.io</text>
+      <animate attributeName="opacity" dur="14s" repeatCount="indefinite" values="0;0;1;1;1;0" keyTimes="0;0.514;0.564;0.945;0.99;1"/>
+    </g>
+
+    <!-- 10: status + blinking cursor -->
+    <g opacity="0">
+      <text x="88" y="374" fill="#00E676" font-weight="700">$</text>
+      <text x="106" y="374" fill="#E6EDF3">status --now</text>
+      <animate attributeName="opacity" dur="14s" repeatCount="indefinite" values="0;0;1;1;1;0" keyTimes="0;0.571;0.621;0.945;0.99;1"/>
+    </g>
+    <g opacity="0">
+      <text x="88" y="392" fill="#8B949E" font-size="13">
+        <tspan fill="#2ECC71">● coding</tspan>   <tspan fill="#F5C518">● learning</tspan>   <tspan fill="#00D4FF">● shipping</tspan>   <tspan fill="#FF5E78">● next: day 18</tspan>
+      </text>
+      <animate attributeName="opacity" dur="14s" repeatCount="indefinite" values="0;0;1;1;1;0" keyTimes="0;0.62;0.67;0.945;0.99;1"/>
+    </g>
+
+    <!-- blinking cursor -->
+    <rect x="88" y="398" width="10" height="17" fill="#00E676">
+      <animate attributeName="opacity" calcMode="discrete" values="1;0" keyTimes="0;0.5" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

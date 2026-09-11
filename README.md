@@ -10,6 +10,11 @@
 
 <br>
 
+<!-- 🐣 Hacker terminal — animated, self-hosted (SMIL, never breaks) -->
+<img src="./assets/hacker-terminal.svg" alt="hacker terminal — code running" width="100%" />
+
+<br>
+
 <!-- ═══════════════ QUICK BADGES ═══════════════ -->
 <a href="https://b2k-pro-edit.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-b2k--pro--edit.vercel.app-7C5CFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:brukjone4@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email-brukjone4%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
