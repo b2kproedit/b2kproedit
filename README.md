@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ═══════════════ HERO BANNER ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=B2kProEdit&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Web%20Developer%20%E2%80%A2%20UI%2FUX%20Enthusiast%20%E2%80%A2%20Python%20Automations&descAlignY=53&descSize=18&color=0:7c5cff,50:5b8cff,100:00d4ff" alt="banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=B2kProEdit&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Enthusiast%20%E2%80%A2%20Python%20Automations&descAlignY=53&descSize=18&color=0:7c5cff,50:5b8cff,100:00d4ff" alt="banner" width="100%" />
 
 <!-- ═══════════════ TYPING EFFECT ═══════════════ -->
 <a href="https://github.com/b2kproedit">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=560&lines=Hey+%F0%9F%91%8B%2C+I'm+Bruk+Yohannes;Frontend+Web+Developer+%F0%9F%92%BB;On+a+mission%3A+40+Projects+in+40+Days+%F0%9F%9A%80;Clean+code+%2B+Pixel-perfect+UIs+%E2%9C%A8" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=560&lines=Hey+%F0%9F%91%8B%2C+I'm+Bruk+Yohannes;Full-Stack+Developer+%F0%9F%92%BB;On+a+mission%3A+40+Projects+in+40+Days+%F0%9F%9A%80;TypeScript+%E2%80%A2+Python+%E2%80%A2+Vanilla+JS+%E2%9C%A8" alt="typing" />
 </a>
 
 <br>
@@ -65,12 +65,14 @@
 ```yaml
 name: Bruk Yohannes
 alias: B2kProEdit
-role: Frontend Web Developer & UI/UX Enthusiast
+role: Full-Stack Developer & UI/UX Enthusiast
 location: Ethiopia 🇪🇹
-focus: Vanilla JavaScript • Clean UI • Real Projects
-mission: 40 projects in 40 days 🎯
-currently_learning: [React, TypeScript, Web APIs]
-open_to: Freelance • Open Source • Collaboration
+top_languages: [TypeScript, JavaScript, Python, Rust]
+currently_building: B2kPro-AI-Agent
+current_mission: 40 projects in 40 days — 17 done 🎯
+currently_learning: [Modern JS Frameworks, Web API Architecture, Python Data Science]
+open_to_collab: [Open-source web utilities, UI components]
+ask_me_about: [Glassmorphic UI design, Python automation, TypeScript, JavaScript]
 fun_fact: "Started coding at 12 — never stopped ⚡"
 ```
 
