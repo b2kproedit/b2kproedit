@@ -39,13 +39,6 @@
 
 | Day | Project | Demo | Source |
 |:--:|:--|:--:|:--:|
-| 01 | 🧮 Calculator | [▶ Live](https://b2kproedit.github.io/Calculator-Project-/) | [📁 Code](https://github.com/b2kproedit/Calculator-Project-) |
-| 02 | 🧠 Quizio — Quiz Game | [▶ Live](https://b2kproedit.github.io/Quiz-Game/) | [📁 Code](https://github.com/b2kproedit/Quiz-Game) |
-| 03 | ✊ Rock Paper Scissors | [▶ Live](https://b2kproedit.github.io/Rock-Pape-scissors/) | [📁 Code](https://github.com/b2kproedit/Rock-Pape-scissors) |
-| 04 | 📝 Notepad | [▶ Live](https://b2kproedit.github.io/Notepad/) | [📁 Code](https://github.com/b2kproedit/Notepad) |
-| 05 | ⏱️ Stopwatch App | [▶ Live](https://b2kproedit.github.io/stopwatch-app/) | [📁 Code](https://github.com/b2kproedit/stopwatch-app) |
-| 06 | 📱 QR Code Generator | [▶ Live](https://b2kproedit.github.io/Qr-Render/) | [📁 Code](https://github.com/b2kproedit/Qr-Render) |
-| 07 | ⛅ Weather App (Open-Meteo API) | [▶ Live](https://b2kproedit.github.io/weather-app/) | [📁 Code](https://github.com/b2kproedit/weather-app) |
 | 08 | 🎧 Crescendo — E-commerce Store | [▶ Live](https://b2kproedit.github.io/E-commerce/) | [📁 Code](https://github.com/b2kproedit/E-commerce) |
 | 09 | ☁️ Glassmorphic Landing Page | [▶ Live](https://b2kproedit.github.io/landing-page/) | [📁 Code](https://github.com/b2kproedit/landing-page) |
 | 10 | 🔐 Password Generator | [▶ Live](https://b2kproedit.github.io/Password-Generator/) | [📁 Code](https://github.com/b2kproedit/Password-Generator) |
@@ -56,6 +49,13 @@
 | 15 | 🛵 Food Order Website | [▶ Live](https://b2kproedit.github.io/food-order-website/) | [📁 Code](https://github.com/b2kproedit/food-order-website) |
 | 16 | 😂 MemeForge — Meme Generator | [▶ Live](https://b2kproedit.github.io/meme-generator/) | [📁 Code](https://github.com/b2kproedit/meme-generator) |
 | 17 | 🎬 CineScope — Movie App | [▶ Live](https://b2kproedit.github.io/movie-app/) | [📁 Code](https://github.com/b2kproedit/movie-app) |
+| 01 | 🧮 Calculator | [▶ Live](https://b2kproedit.github.io/Calculator-Project-/) | [📁 Code](https://github.com/b2kproedit/Calculator-Project-) |
+| 02 | 🧠 Quizio — Quiz Game | [▶ Live](https://b2kproedit.github.io/Quiz-Game/) | [📁 Code](https://github.com/b2kproedit/Quiz-Game) |
+| 03 | ✊ Rock Paper Scissors | [▶ Live](https://b2kproedit.github.io/Rock-Pape-scissors/) | [📁 Code](https://github.com/b2kproedit/Rock-Pape-scissors) |
+| 04 | 📝 Notepad | [▶ Live](https://b2kproedit.github.io/Notepad/) | [📁 Code](https://github.com/b2kproedit/Notepad) |
+| 05 | ⏱️ Stopwatch App | [▶ Live](https://b2kproedit.github.io/stopwatch-app/) | [📁 Code](https://github.com/b2kproedit/stopwatch-app) |
+| 06 | 📱 QR Code Generator | [▶ Live](https://b2kproedit.github.io/Qr-Render/) | [📁 Code](https://github.com/b2kproedit/Qr-Render) |
+| 07 | ⛅ Weather App (Open-Meteo API) | [▶ Live](https://b2kproedit.github.io/weather-app/) | [📁 Code](https://github.com/b2kproedit/weather-app) |
 | … | ⏳ Day 18–40 loading… | 🔜 | 🔜 |
 
 </div>
