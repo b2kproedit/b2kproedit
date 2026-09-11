@@ -102,16 +102,15 @@ fun_fact: "Started coding at 12 — never stopped ⚡"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=b2kproedit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C5CFF&icon_color=00D4FF&text_color=FFFFFF" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b2kproedit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C5CFF&text_color=FFFFFF" alt="top langs" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=b2kproedit&locale=en&mode=daily&theme=tokyonight&hide_border=true&background=0D1117&border_radius=8&ring=7C5CFF&fire=FF5E78&currStreakLabel=00D4FF" height="165" alt="streak" />
+<!-- ራስ-ሰር SVGs — በየቀኑ በ GitHub Actions ይታደሳሉ · የሚሰብሩ የሶስተኛ ወገን ሰርቪሶች አይደሉም 💪 -->
+<img src="./assets/github-stats-card.svg" alt="GitHub Stats" width="495" />
+<a href="https://github.com/b2kproedit">
+  <img src="https://streak-stats.demolab.com?user=b2kproedit&locale=en&mode=daily&theme=tokyonight&hide_border=true&background=0D1117&border_radius=8&ring=7C5CFF&fire=FF5E78&currStreakLabel=00D4FF" height="195" alt="GitHub Streak" />
+</a>
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=b2kproedit&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" width="100%" />
+<img src="./assets/github-langs-card.svg" alt="Most Used Languages" width="495" />
 
 </div>
 
