@@ -95,7 +95,7 @@
       <animate attributeName="opacity" dur="14s" repeatCount="indefinite" values="0;0;1;1;1;0" keyTimes="0;0.4;0.45;0.945;0.99;1"/>
     </g>
 
-    <!-- 8: $ ./deploy --live -->
+    <!-- 8: deploy command -->
     <g opacity="0">
       <text x="88" y="314" fill="#00E676" font-weight="700">$</text>
       <text x="106" y="314" fill="#E6EDF3">./deploy --live --all</text>
