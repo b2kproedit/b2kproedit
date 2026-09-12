@@ -11,10 +11,10 @@
   <text x="24" y="38" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="18" font-weight="800" fill="url(#tg)">⚡ b2kproedit's GitHub Stats</text>
   <rect x="24" y="56" width="4" height="42" rx="2" fill="#F5C518" opacity="0.9"/>
   <text x="38" y="72" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="11" font-weight="600" fill="#8B949E" letter-spacing="0.5">TOTAL STARS</text>
-  <text x="38" y="104" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="26" font-weight="800" fill="#FFFFFF">26</text>
+  <text x="38" y="104" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="26" font-weight="800" fill="#FFFFFF">23</text>
   <rect x="188" y="56" width="4" height="42" rx="2" fill="#7C5CFF" opacity="0.9"/>
   <text x="202" y="72" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="11" font-weight="600" fill="#8B949E" letter-spacing="0.5">TOTAL REPOS</text>
-  <text x="202" y="104" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="26" font-weight="800" fill="#FFFFFF">27</text>
+  <text x="202" y="104" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="26" font-weight="800" fill="#FFFFFF">24</text>
   <rect x="352" y="56" width="4" height="42" rx="2" fill="#00D4FF" opacity="0.9"/>
   <text x="366" y="72" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="11" font-weight="600" fill="#8B949E" letter-spacing="0.5">COMMITS (1YR)</text>
   <text x="366" y="104" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="26" font-weight="800" fill="#FFFFFF">73</text>
@@ -27,5 +27,5 @@
   <rect x="352" y="122" width="4" height="42" rx="2" fill="#FF5E78" opacity="0.9"/>
   <text x="366" y="138" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="11" font-weight="600" fill="#8B949E" letter-spacing="0.5">ISSUES &amp; PRS</text>
   <text x="366" y="170" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="26" font-weight="800" fill="#FFFFFF">1</text>
-  <text x="471" y="184" text-anchor="end" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="8" fill="#8B949E" opacity="0.7">auto-updated Sep 11, 2026 10:54 UTC</text>
+  <text x="471" y="184" text-anchor="end" font-family="Segoe UI,Helvetica Neue,Arial,sans-serif" font-size="8" fill="#8B949E" opacity="0.7">auto-updated Sep 12, 2026 07:50 UTC</text>
 </svg>
