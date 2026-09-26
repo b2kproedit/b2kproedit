@@ -5,7 +5,7 @@
 
 <!-- ═══════════════ TYPING EFFECT ═══════════════ -->
 <a href="https://github.com/b2kproedit">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=560&lines=Hey+%F0%9F%91%8B%2C+I'm+Bruk+Yohannes;Full-Stack+Developer+%F0%9F%92%BB;On+a+mission%3A+40+Projects+in+40+Days+%F0%9F%9A%80;TypeScript+%E2%80%A2+Python+%E2%80%A2+Vanilla+JS+%E2%9C%A8" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=560&lines=Hey+%F0%9F%91%8B%2C+I'm+Bruk+Yohannes;Full-Stack+Developer+%F0%9F%92%BB;Day+24%2F40+%E2%80%94+Live+Challenge+%F0%9F%94%A5;TypeScript+%E2%80%A2+Python+%E2%80%A2+Vanilla+JS+%E2%9C%A8" alt="typing" />
 </a>
 
 <br>
@@ -24,7 +24,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=b2kproedit&label=Profile+Views&color=7c5cff&style=for-the-badge" alt="views" />
 <img src="https://img.shields.io/github/followers/b2kproedit?label=Followers&style=for-the-badge&color=00d4ff&logo=github" alt="followers" />
-<img src="https://img.shields.io/badge/%F0%9F%8E%AF_Challenge-17%2F40_Complete-FF5E78?style=for-the-badge" alt="challenge" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%AF_Challenge-23%2F40_Complete-FF5E78?style=for-the-badge" alt="challenge" />
+<img src="https://img.shields.io/badge/%F0%9F%94%A5_Current-Day_24_of_40-00D4FF?style=for-the-badge" alt="current day" />
 
 </div>
 
@@ -33,12 +34,19 @@
 <!-- ═══════════════ 40 DAYS OF CODE ═══════════════ -->
 # 🚀 40 Days of Web Dev — Live Challenge
 
-> Building **40 real projects in 40 days** — no frameworks, no copy-paste. Every project is a standalone repo with a live demo. **Progress: 17 / 40** 🎯
+> Building **40 real projects in 40 days** — no frameworks, no copy-paste. Every project is a standalone repo with a live demo. **Progress: 23 / 40** 🎯 · **Currently on Day 24** 🔥
 
 <div align="center">
 
 | Day | Project | Demo | Source |
 |:--:|:--|:--:|:--:|
+| 01 | 🧮 Calculator | [▶ Live](https://b2kproedit.github.io/Calculator-Project-/) | [📁 Code](https://github.com/b2kproedit/Calculator-Project-) |
+| 02 | 🧠 Quizio — Quiz Game | [▶ Live](https://b2kproedit.github.io/Quiz-Game/) | [📁 Code](https://github.com/b2kproedit/Quiz-Game) |
+| 03 | ✊ Rock Paper Scissors | [▶ Live](https://b2kproedit.github.io/Rock-Pape-scissors/) | [📁 Code](https://github.com/b2kproedit/Rock-Pape-scissors) |
+| 04 | 📝 Notepad | [▶ Live](https://b2kproedit.github.io/Notepad/) | [📁 Code](https://github.com/b2kproedit/Notepad) |
+| 05 | ⏱️ Stopwatch App | [▶ Live](https://b2kproedit.github.io/stopwatch-app/) | [📁 Code](https://github.com/b2kproedit/stopwatch-app) |
+| 06 | 📱 QR Code Generator | [▶ Live](https://b2kproedit.github.io/Qr-Render/) | [📁 Code](https://github.com/b2kproedit/Qr-Render) |
+| 07 | ⛅ Weather App (Open-Meteo API) | [▶ Live](https://b2kproedit.github.io/weather-app/) | [📁 Code](https://github.com/b2kproedit/weather-app) |
 | 08 | 🎧 Crescendo — E-commerce Store | [▶ Live](https://b2kproedit.github.io/E-commerce/) | [📁 Code](https://github.com/b2kproedit/E-commerce) |
 | 09 | ☁️ Glassmorphic Landing Page | [▶ Live](https://b2kproedit.github.io/landing-page/) | [📁 Code](https://github.com/b2kproedit/landing-page) |
 | 10 | 🔐 Password Generator | [▶ Live](https://b2kproedit.github.io/Password-Generator/) | [📁 Code](https://github.com/b2kproedit/Password-Generator) |
@@ -49,14 +57,14 @@
 | 15 | 🛵 Food Order Website | [▶ Live](https://b2kproedit.github.io/food-order-website/) | [📁 Code](https://github.com/b2kproedit/food-order-website) |
 | 16 | 😂 MemeForge — Meme Generator | [▶ Live](https://b2kproedit.github.io/meme-generator/) | [📁 Code](https://github.com/b2kproedit/meme-generator) |
 | 17 | 🎬 CineScope — Movie App | [▶ Live](https://b2kproedit.github.io/movie-app/) | [📁 Code](https://github.com/b2kproedit/movie-app) |
-| 01 | 🧮 Calculator | [▶ Live](https://b2kproedit.github.io/Calculator-Project-/) | [📁 Code](https://github.com/b2kproedit/Calculator-Project-) |
-| 02 | 🧠 Quizio — Quiz Game | [▶ Live](https://b2kproedit.github.io/Quiz-Game/) | [📁 Code](https://github.com/b2kproedit/Quiz-Game) |
-| 03 | ✊ Rock Paper Scissors | [▶ Live](https://b2kproedit.github.io/Rock-Pape-scissors/) | [📁 Code](https://github.com/b2kproedit/Rock-Pape-scissors) |
-| 04 | 📝 Notepad | [▶ Live](https://b2kproedit.github.io/Notepad/) | [📁 Code](https://github.com/b2kproedit/Notepad) |
-| 05 | ⏱️ Stopwatch App | [▶ Live](https://b2kproedit.github.io/stopwatch-app/) | [📁 Code](https://github.com/b2kproedit/stopwatch-app) |
-| 06 | 📱 QR Code Generator | [▶ Live](https://b2kproedit.github.io/Qr-Render/) | [📁 Code](https://github.com/b2kproedit/Qr-Render) |
-| 07 | ⛅ Weather App (Open-Meteo API) | [▶ Live](https://b2kproedit.github.io/weather-app/) | [📁 Code](https://github.com/b2kproedit/weather-app) |
-| … | ⏳ Day 18–40 loading… | 🔜 | 🔜 |
+| 18 | 💬 Chat App (Next.js + PostgreSQL) | 🔜 soon | [📁 Code](https://github.com/b2kproedit/chat-app) |
+| 19 | 🐦 Chirp — Twitter/X Clone | 🔜 soon | [📁 Code](https://github.com/b2kproedit/twitter-clone) |
+| 20 | 📋 Survey Web App | 🔜 soon | [📁 Code](https://github.com/b2kproedit/survey-web-app) |
+| 21 | 📸 Instagram Clone (React + Vite) | 🔜 soon | [📁 Code](https://github.com/b2kproedit/instagram-clone) |
+| 22 | 🍿 Netflix Clone | 🔜 soon | [📁 Code](https://github.com/b2kproedit/netflix-clone-) |
+| 23 | 🟩 WhatsApp Clone | 🔜 soon | [📁 Code](https://github.com/b2kproedit/whatsapp-clone-) |
+| 24 | 🚧 In progress… | 🔥 | 🔥 |
+| … | ⏳ Day 25–40 loading… | 🔜 | 🔜 |
 
 </div>
 
@@ -74,7 +82,7 @@ role: Full-Stack Developer & UI/UX Enthusiast
 location: Ethiopia 🇪🇹
 top_languages: [TypeScript, JavaScript, Python, Rust]
 currently_building: B2kPro-AI-Agent
-current_mission: 40 projects in 40 days — 17 done 🎯
+current_mission: 40 projects in 40 days — 23 done, Day 24 live 🔥
 currently_learning: [Modern JS Frameworks, Web API Architecture, Python Data Science]
 open_to_collab: [Open-source web utilities, UI components]
 ask_me_about: [Glassmorphic UI design, Python automation, TypeScript, JavaScript]
